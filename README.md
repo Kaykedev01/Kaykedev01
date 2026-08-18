@@ -24,5 +24,5 @@ Atualmente estou focado em desenvolvimento web e explorando diferentes áreas da
 
 ## 📫 Contato
 
-- instagram: ![@kkaraujo](https://www.instagram.com/kkarraujo?igsh=NGJjMmd3dXVtbnl0)
-- Email: kaykenascimentoaraujo4@email.com
+- instagram: @kkaraujo
+- Email: kaykenascimentoaraujo4@gmail.com
