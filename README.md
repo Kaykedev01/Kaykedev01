@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👨‍💻 Kayke
 
-<!--
-**Kaykedev01/Kaykedev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Full Stack
 
-Here are some ideas to get you started:
+Olá! Meu nome é Kayke e estou estudando desenvolvimento de software.
+Atualmente estou focado em desenvolvimento web e explorando diferentes áreas da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,python,flutter" />
+</p>
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+
+---
+
+## 📌 Projetos
+
+- 🔥 Projeto 1
+- ⚡ Projeto 2
+- 🚀 Projeto 3
+
+---
+
+## 📫 Contato
+
+- GitHub: @SEU_USUARIO
+- Email: seuemail@email.com
