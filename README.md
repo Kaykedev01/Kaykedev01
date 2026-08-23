@@ -15,12 +15,6 @@ Atualmente estou focado em desenvolvimento web e explorando diferentes áreas da
 
 ---
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
-
-
----
 
 ## 📫 Contato
 
