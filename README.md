@@ -18,5 +18,5 @@ Atualmente estou focado em desenvolvimento web e explorando diferentes áreas da
 
 ## 📫 Contato
 
-- instagram: @kkaraujo
+- instagram: @kkaykexx
 - Email: kaykenascimentoaraujo4@gmail.com
